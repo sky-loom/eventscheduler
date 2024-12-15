@@ -1,0 +1,33 @@
+{
+  "name": "@skyloom/eventscheduler",
+  "version": "1.0.0",
+  "main": "dist/eventscheduler.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --build tsconfig.json"
+  },
+  "keywords": [
+    "events",
+    "event management",
+    "scheduler",
+    "skyloom"
+  ],
+  "author": "Skyloom",
+  "license": "ISC",
+  "description": "A simple event scheduling system with serialization.",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/nanoid": "^2.1.0",
+    "nanoid": "^5.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repository"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
