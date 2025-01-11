@@ -14,7 +14,6 @@ npm install @skyloom/eventscheduler
 ## Usage
 
 ```typescript
-import { nanoid } from "nanoid";
 import { EventScheduler, EventHandler, EventStatus } from "@skyloom/eventscheduler";
 
 // Initialize the Event Scheduler
