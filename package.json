@@ -1,6 +1,6 @@
 {
   "name": "@skyloom/eventscheduler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/eventscheduler.js",
   "type": "module",
   "scripts": {
